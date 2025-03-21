@@ -1,5 +1,7 @@
 # Retail_Domain
 
+# Retail Sales Prediction using Machine Learning !!!
+
 # Problem Statement The retail and warehouse data provided contains sales and transfer information across different suppliers, items, and time periods (months and years). The goal of the problem might be:
 
 Sales Forecasting: Predict future sales (retail or warehouse) based on historical data. This is a Time Series Forecasting problem.
